@@ -39,13 +39,13 @@ This will:
 - Clear old caches
 - Force Maven to re-download everything fresh  
 
-📁 Files in This Repo
+### 📁 Files in This Repo
 - `settings.xml`: The fixed configuration for Maven
 - `README.md`: You’re reading it
 
 ---
 
-💬 Credits  
+### 💬 Credits  
 Tested and fixed by me after hours of Maven debugging frustration
 
 ---
