@@ -45,7 +45,7 @@ This will:
 
 ---
 
-💬 Credits
+💬 Credits  
 Tested and fixed by me after hours of Maven debugging frustration
 
 ---
